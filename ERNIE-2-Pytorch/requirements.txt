@@ -1,5 +1,5 @@
 torch==1.2.0
-transformers==3.0.2
+transformers==4.30.0
 paddlepaddle==1.8.2
 numpy
 pyzmq==18.0.2
